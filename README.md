@@ -1,5 +1,7 @@
 Simple weather web app made using the Vue framework and the Open Weather Map's API.
 
+The app can be used [here](https://weather-vue.vercel.app/), enter a city / country name in the search bar and hit 'Enter'.
+
 # vue-weather
 
 This template should help get you started developing with Vue 3 in Vite.
